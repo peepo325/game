@@ -14,7 +14,7 @@ export default {
     return{
       data:{
         Player:[
-        {name:'Doraemon',hp:100,image:'./assests/pickachu.png'},
+        {name:'Doraemon',hp:100,image:''},
         {name:'Pickachu',hp:100,image:''},
         {name:'Scooby-doo',hp:100,image:''},
         ],chosenPlayer:'',
