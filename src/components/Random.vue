@@ -16,7 +16,7 @@ export default {
         Player:[
         {name:'Doraemon',hp:100,image:''},
         {name:'Pickachu',hp:100,image:''},
-        {name:'Scooby-doo',hp:100,image:''},
+        {name:'Scooby',hp:100,image:''},
         ],chosenPlayer:'',
         Monster:[
           {name:'Jai-ant',hp:100,image:''},
